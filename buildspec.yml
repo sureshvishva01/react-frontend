@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_REGION: us-east-1
-    AWS_ACCOUNT_ID: 871594846667
+    AWS_ACCOUNT_ID: 554936332221
     IMAGE_REPO_NAME: react-frontend
 
 phases:
